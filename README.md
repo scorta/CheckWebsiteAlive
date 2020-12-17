@@ -1,5 +1,6 @@
 # CheckWebsiteAlive
 This program will help you to check if a url from a list is dead or alive.
+**_Note:_** this program should be called "Check**Url**Alive"
 
 ## Usage
 Compile this, and run with something like:
